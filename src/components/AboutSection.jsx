@@ -12,13 +12,11 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Passionate Web Developer & Problem Solver
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              With a strong foundation in web development, I specialize in building clean, responsive, and user-focused web applications using modern technologies like HTML, CSS, JavaScript, and React. I'm passionate about crafting seamless digital experiences and constantly strive to write efficient, scalable, and maintainable code.
             </p>
 
             <p className="text-muted-foreground">
@@ -64,10 +62,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Solving Problem</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Strong problem-solving skills with a focus on writing clean, logical, and efficient code to tackle real-world challenges.
                   </p>
                 </div>
               </div>
